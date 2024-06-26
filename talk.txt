@@ -8,3 +8,4 @@
 　　　 ヽ ﾉ
 　　　　)ﾉ
 　　　 ((
+	Console.Writeline("スクリューー");
